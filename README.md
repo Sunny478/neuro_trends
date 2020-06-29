@@ -11,3 +11,5 @@ c. stacking_individual ( which contains stacking_tree_models.ipynb, stacking_gbt
 d. final_stacking
 
 PS : There are many stacking softwares available like Stacknet, but the stacking had to be done separately for linear models and others because of the gpu requirements.
+
+Also, the data is kept private because of organisation's code of conduct.
