@@ -1,4 +1,4 @@
-# neuro_trends
+# Neuro Trends
 This is a mini-project to predict age and other assessment features(d1v1, d1v2, d2v1, d2v2) from the sbm_loadings and fnc_mappings in tabular form.
 It can be categorized into:
 
