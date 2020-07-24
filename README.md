@@ -5,10 +5,12 @@ subjects.
 This involved understanding the anonymized data using extensive EDA. Once the abnormalities of the data were found, various models were
 deployed to assess the desired values.
 The variety of models used were:
+
 a. Linear Models (Ridge, Lasso, ElasticNet, Linear Regression)
 b. Support Vector Machines ( SVR )
 c. Tree Models ( Random Forest )
 d. Gradient Boosting ( XGBoost, CatBoost, LightGBM )
+
 Out of these, support vector models and gradient boosting models were trained on an online GPU using Nvidia's Rapids, cudf, cuml etc.
 After these rigourous stacking and ensembling of the predictions given by these models was done to achieve competitive results.
 
